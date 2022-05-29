@@ -1,0 +1,17 @@
+:root {
+  --primary-text-color:#1E212C;
+  --secondary-text-color: #787A80;
+  --third-text-color: #424551;
+
+  --accent-color: #FF5A30;
+
+  --bgcolor: #F4F5F7;
+  --bgcolor-footer: #F4F5F7;
+
+  --animation: cubic-bezier(0.4, 0, 0.2, 1);
+  --time-animation: 250ms;
+}
+
+  $mobile: 480px;
+  $tablet: 768 px;
+  $desktop: 1300px;
